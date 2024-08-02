@@ -97,7 +97,7 @@ Séries temporelles de mesures d'ensoleillement, de vent et de consommation éle
 
 ## 📡 Logiciel de mesures du spectre radio
 
-Développement d'un outil de mesures précises de la puissance des canaux adjacents (*Adjacent channel power* : ACP) pour évaluer les interférences radio sur les canaux auxiliaires des radios en sortie d'usine.
+Développement d'un outil précis de mesure de la puissance sur les canaux adjacents (*Adjacent Channel Power* ou ACP), utilisé pour évaluer les produits en sortie d'usine, notamment les radios aéronautiques.
 
 *Conception logicielle UML / C++ / Bash Linux*
 
