@@ -8,7 +8,7 @@
 ## 📞 Références
 - 📚 **Publications académiques** : [Voir mes publications sur HAL](https://cv.hal.science/adrien-gauche)
 - 💼 **Profil LinkedIn** : [Visitez mon LinkedIn](https://www.linkedin.com/in/adrien-gauche/)
-- 📫 **Contact** : adrien.gaucheCHEZcentraliens-nantes.org (remplacer "CHEZ" par @)
+- 📫 **Email contact** : no-spam.adrien.gauche@centraliens-nantes.org (enlever no-spam.)
 - 📑 **CV** : Disponible sur demande
 
 ## 🛠️ Compétences et Outils
