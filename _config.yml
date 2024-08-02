@@ -5,3 +5,15 @@ title: Adrien GAUCHÉ
 #show_downloads: true
 theme: jekyll-theme-minimal
 #google_analytics: [Your Google Analytics tracking ID]
+
+social_links:
+  - name: GitHub
+    url: https://github.com/adrien-gauche
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/adrien-gauche/
+  - name: ORCID
+    url: https://orcid.org/0000-0002-7512-3174
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=cnP6c4wAAAAJ
+  - name: HAL
+    url: https://cv.archives-ouvertes.fr/adrien-gauche

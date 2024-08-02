@@ -3,7 +3,7 @@
 
 ⚡️ Ingénieur avec 4 ans d’expérience dans l’énergie électrique et l'hydrogène, j’ai enrichi mon profil en data science et optimisation durant ma thèse en entreprise.
 
-🔭 Passionné par les données, je suis sérieux, analytique, adaptable et organisé. Apprécié pour mon ouverture aux autres, je suis prêt à relever de nouveaux défis professionnels dans le domaine de la data science.
+🔭 Passionné par l'exploitation de données, je suis sérieux, analytique, adaptable et organisé. Apprécié pour mon ouverture aux autres, je suis prêt à relever de nouveaux défis professionnels dans le domaine de la data science.
 
 ## 📞 Références
 - 📚 **Publications académiques** : [Voir mes publications sur HAL](https://cv.hal.science/adrien-gauche)
