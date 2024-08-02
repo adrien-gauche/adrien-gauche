@@ -6,10 +6,14 @@
 🔭 Passionné par l'exploitation de données, je suis sérieux, analytique, adaptable et organisé. Apprécié pour mon ouverture aux autres, je suis prêt à relever de nouveaux défis professionnels dans le domaine de la data science.
 
 ## 📞 Références
-- 📚 **Publications académiques** : [Voir mes publications sur HAL](https://cv.hal.science/adrien-gauche)
 - 💼 **Profil LinkedIn** : [Visitez mon LinkedIn](https://www.linkedin.com/in/adrien-gauche/)
-- 📫 **Email contact** : no-spam.adrien.gauche@centraliens-nantes.org (enlever no-spam.)
-- 📑 **CV** : Disponible sur demande
+- 📧 **Email contact** : no-spam.adrien.gauche@centraliens-nantes.org (*enlever "no-spam."*)
+- **📑 CV** : Disponible sur demande
+- **💻 [GitHub](https://github.com/adrien-gauche)** : Découvrez mes projets
+- **🔬 [Google Scholar](https://scholar.google.com/citations?user=cnP6c4wAAAAJ)** : Consulter mes publications
+- **🆔 [ORCID](https://orcid.org/0000-0002-7512-3174)** : Mon identifiant ORCID
+- **📚 [HAL](https://cv.archives-ouvertes.fr/adrien-gauche)** : Consultez mes travaux académiques
+
 
 ## 🛠️ Compétences et Outils
 - **Langages de programmation** : Python, SQL, C/C++, Julia
