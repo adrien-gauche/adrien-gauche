@@ -6,7 +6,7 @@
 🔭 Passionné par l'exploitation de données, je suis sérieux, analytique, adaptable et organisé. Apprécié pour mon ouverture aux autres, je suis prêt à relever de nouveaux défis professionnels dans le domaine de la data science.
 
 ## 📞 Références
-- 💼 **Profil LinkedIn** : [Visitez mon LinkedIn](https://www.linkedin.com/in/adrien-gauche/)
+- 💼 **[Profil LinkedIn](https://www.linkedin.com/in/adrien-gauche/)** : Visitez mon LinkedIn
 - 📧 **Email contact** : no-spam.adrien.gauche@centraliens-nantes.org (*enlever "no-spam."*)
 - **📑 CV** : Disponible sur demande
 - **💻 [GitHub](https://github.com/adrien-gauche)** : Découvrez mes projets
@@ -18,15 +18,15 @@
 ## 🛠️ Compétences et Outils
 - **Langages de programmation** : Python, SQL, C/C++, Julia
 - **Analyse de données** : Pandas
-- **Visualisation de données** : Seaborn, Streamlit
+- **Visualisation de données** : Seaborn, Streamlit, Plotly
 - **Apprentissage automatique** : Scikit-Learn, PyTorch
 - **Explicabilité** : SHAP
 - **Optimisation & Recherche Opérationnelle** :
   - Formulation Mixed-Integer Linear Programming (HiGHS, Gurobi...)
-  - Heuristiques (Particle Swarm, algorithmes génétiques...)
+  - Formulation Black box, résolution par heuristiques (Particle Swarm, algorithmes génétiques...)
 - **Veille académique** : étude du besoin, formulation de la problématique à résoudre, état de l'art académique
 - **Bases de données** : SQL, SQLite
-- **Autres** : Git, Docker, Linux, Bash, Cronjobs
+- **Autres** : Git, Docker, Linux, Bash, Cron Job
 
 ## 🏢 Expériences professionnelles
 - **Ingénieur Data Science / Optimisation (CDD)**, [PowiDian Energy SAS](https://powidian.com/) | 2021 - 2024
@@ -51,7 +51,7 @@ Création d'un modèle de prédiction de l'ensoleillement pour anticiper la gén
 *Régression / Feature Engineering / Hyper-paramètres / Clustering / Réduction de Dimension / Gradient Boosting*
 
 ### Données
-Séries temporelles (irradiance, température, vent, angle zénithal du soleil...) mesurées par satellite sur 3 ans avec un pas de temps de 15 minutes (open data NSRDB).
+Séries temporelles (irradiance, température, vent, angle zénithal du soleil...) mesurées par satellite sur 3 ans avec un pas de temps de 15 minutes ([open data NSRDB](https://nsrdb.nrel.gov/data-viewer)).
 
 ### Démarche
 - Analyse exploratoire et étude des caractéristiques statistiques (information mutuelle, corrélation)
@@ -60,7 +60,7 @@ Séries temporelles (irradiance, température, vent, angle zénithal du soleil..
 - Réduction de dimension (PCA) des données météo
 - Comparaison et sélection des features
 - Comparaison de plusieurs modèles de régression (Lasso, ElasticNet, Random Forest, XGBoost, LightGBM, MLP Neural Network...)
-- Détermination de la quantité de données nécessaire
+- Détermination de la quantité de données nécessaire via la courbe d'apprentissage
 - Optimisation des hyper-paramètres
 - Explication du modèle (SHAP)
 
@@ -69,7 +69,7 @@ Séries temporelles (irradiance, température, vent, angle zénithal du soleil..
 - Prédiction de l'ensoleillement pour les 24 heures à venir par pas de temps de 30 minutes
 - Erreur RMSE moyenne de 94,3 W/m²
 
-![Clustering des données](assets/GHI_clusters.png)
+![Clustering de la couverture nuageuse](assets/GHI_clusters.png)
 ![Prédiction de l'ensoleillement](assets/GHI_pred.png)
 
 ---
@@ -78,7 +78,7 @@ Séries temporelles (irradiance, température, vent, angle zénithal du soleil..
 
 ## 🔋 Logiciel de dimensionnement de microréseau électrique
 
-Création, à partir de zéro, d'un logiciel de simulation et de dimensionnement de microréseau avec génération renouvelable et stockage hydrogène. Conçu durant mon stage de fin d'études en 2020, ce logiciel est toujours en utilisation.
+Création de zéro d'un logiciel de simulation et de dimensionnement de microréseau avec génération renouvelable et stockage hydrogène. Conçu durant mon stage de fin d'études en 2020, ce logiciel est toujours en utilisation.
 
 *Série temporelle / Architecture logicielle UML / Dashboard Qt5 / Visualisation de données*
 
